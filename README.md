@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vishwa
-- I’m interested in learning Full Stack Development 
-- I’m currently learning JavaScript and Blockchain Development
+- I’m currently learning Full Stack Development 
 - I’m looking to collaborate on open source projects
 
 <!---
